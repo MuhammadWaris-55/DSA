@@ -13,4 +13,4 @@ function printStars(n) {
     }
 }
 
-printStars(4)
+printStars(5)
