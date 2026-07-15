@@ -12,5 +12,5 @@ function print(n) {
 
 print(123456)
 
-// Time complexity : O(log₁₀ n)
-// space complexity: Object(1)
+// Time complexity : O(log₁₀ n) , any number that divides by n will be base of log
+// space complexity: O(1)
